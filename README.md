@@ -17,9 +17,7 @@ Skills: TensorFlow , Machine Learning , Scikit Learn and most ML tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumar-Jadipalli)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivakumar-Jadipalli&show_icons=true&count_private=true)  
 
 
-![GitHub metrics](https://metrics.lecoq.io/Shivakumar-Jadipalli)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Shivakumar-Jadipalli)  
