@@ -19,5 +19,3 @@ Skills: TensorFlow , Machine Learning , Scikit Learn and most ML tools
 
 
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Shivakumar-Jadipalli)  
